@@ -6,3 +6,4 @@ console.log(lastElement);
 // console.log(arry[2]);
 let middle = subjects[2]
 console.log(middle);
+//question 2
